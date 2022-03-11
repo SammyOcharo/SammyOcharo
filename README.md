@@ -6,4 +6,4 @@
 - 📫 How to reach on email: obanyisammy@gmail.com
 - Get me on phone call: +254795941990
 - Environmental conservationist - let's plant trees
-- 
+- https://sammyobanyiportfolio.netlify.app/  (portfolio website)
