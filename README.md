@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer specializing in Java programming Language and Spring as a framework am also contributing in frontend web development using React Js and Redux. 
 
 - :seedling: Exploring Technical Content Writing in Java programming Language
 
