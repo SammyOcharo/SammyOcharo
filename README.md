@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing in Java programming Language
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: https://hashnode.com/@sammyobanyi
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammy-ocharo-82943a1a1/)
 - ---
