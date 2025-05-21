@@ -31,7 +31,7 @@ Java Springboot microservice engineer <img src="https://media.giphy.com/media/WU
 ### 📜 Certifications :
 <div align="center">
   <a href="https://www.credly.com/badges/73e68933-e1cc-474f-910d-be53b2c696ab/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0debb1d0-3f4e-4d96-a4cf-776b9b404596/aws-certified-developer-associate.png" width="150" alt="AWS Certified Developer Associate Badge"/>
+    <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120" alt="AWS Certified Developer Associate Badge"/>
   </a>
   <p><em>AWS Certified Developer – Associate</em></p>
 </div>
