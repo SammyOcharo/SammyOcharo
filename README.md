@@ -29,21 +29,25 @@ Java Springboot microservice engineer <img src="https://media.giphy.com/media/WU
 - ---
 
 ### 📜 Certifications :
-<div display="flex>
-  <div align="left">
-  <a href="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Developer Associate Badge"/>
-  </a>
-  <p><em>AWS Cloud Practitioner Foundational</em></p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" target="_blank">
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Cloud Practitioner Foundational Badge"/>
+      </a>
+      <br/>
+      <em>AWS Cloud Practitioner Foundational</em>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/73e68933-e1cc-474f-910d-be53b2c696ab/public_url" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120" alt="AWS Certified Developer Associate Badge"/>
+      </a>
+      <br/>
+      <em>AWS Certified Developer – Associate</em>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <a href="https://www.credly.com/badges/73e68933-e1cc-474f-910d-be53b2c696ab/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120" alt="AWS Certified Developer Associate Badge"/>
-  </a>
-  <p><em>AWS Certified Developer – Associate</em></p>
-</div>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
