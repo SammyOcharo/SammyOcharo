@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sammy-ocharo-82943a1a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73e68933-e1cc-474f-910d-be53b2c696ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
   <a href="https://twitter.com/sammy_ocharo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
