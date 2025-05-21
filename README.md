@@ -28,6 +28,15 @@ Java Springboot microservice engineer <img src="https://media.giphy.com/media/WU
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammy-ocharo-82943a1a1/)
 - ---
 
+### 📜 Certifications :
+<div align="center">
+  <a href="https://www.credly.com/badges/73e68933-e1cc-474f-910d-be53b2c696ab/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0debb1d0-3f4e-4d96-a4cf-776b9b404596/aws-certified-developer-associate.png" width="150" alt="AWS Certified Developer Associate Badge"/>
+  </a>
+  <p><em>AWS Certified Developer – Associate</em></p>
+</div>
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
